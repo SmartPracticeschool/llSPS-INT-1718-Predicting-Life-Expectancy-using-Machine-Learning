@@ -1,8 +1,9 @@
 Predicting Life Expectancy Using Machine Learning
+
 Category: Machine Learning
 
 Skills Required:
-Python,IBM Cloud,IBM Watson
+Python, IBM Cloud, IBM Watson
 
 Problem Description :
 
